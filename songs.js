@@ -434,6 +434,76 @@ var metadata = {
     trackNumber: 13,
     image: "img/clancy.png",
   },
+  "City Walls": {
+    album: "Breach",
+    trackNumber: 1,
+    image: "img/breach.png",
+  },
+  RAWFEAR: {
+    album: "Breach",
+    trackNumber: 2,
+    image: "img/breach.png",
+  },
+  "Drum Show": {
+    album: "Breach",
+    trackNumber: 3,
+    image: "img/breach.png",
+  },
+  Garbage: {
+    album: "Breach",
+    trackNumber: 4,
+    image: "img/breach.png",
+  },
+  "The Contract": {
+    album: "Breach",
+    trackNumber: 5,
+    image: "img/breach.png",
+  },
+  Downstairs: {
+    album: "Breach",
+    trackNumber: 6,
+    image: "img/breach.png",
+  },
+  "Robot Voices": {
+    album: "Breach",
+    trackNumber: 7,
+    image: "img/breach.png",
+  },
+  "Center Mass": {
+    album: "Breach",
+    trackNumber: 8,
+    image: "img/breach.png",
+  },
+  Cottonwood: {
+    album: "Breach",
+    trackNumber: 9,
+    image: "img/breach.png",
+  },
+  "One Way": {
+    album: "Breach",
+    trackNumber: 10,
+    image: "img/breach.png",
+  },
+  "Days Lie Dormant": {
+    album: "Breach",
+    trackNumber: 11,
+    image: "img/breach.png",
+  },
+  Tally: {
+    album: "Breach",
+    trackNumber: 12,
+    image: "img/breach.png",
+  },
+  Intentions: {
+    album: "Breach",
+    trackNumber: 13,
+    image: "img/breach.png",
+  },
+  "Drag Path": {
+    album: "Breach",
+    trackNumber: "14",
+    image: "img/breach.png",
+  },
   "Time To Say Goodbye": {
     album: "Single",
     trackNumber: "Single",
@@ -455,6 +525,11 @@ var metadata = {
     image: "img/logo.png",
   },
   "The Craving (Single Version)": {
+    album: "Single",
+    trackNumber: "Single",
+    image: "img/logo.png",
+  },
+  "The Line": {
     album: "Single",
     trackNumber: "Single",
     image: "img/logo.png",
