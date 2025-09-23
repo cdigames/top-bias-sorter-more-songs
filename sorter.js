@@ -82,16 +82,6 @@ function restartQuestion() {
   document.getElementById("restartButton").style = "display: none;";
   document.getElementById("restartPrompt").style =
     "display: flex; justify-content: center;";
-  // var button = document.getElementById("restartButton");
-  // if (button.outerText === "Restart") {
-  //   button.innerText = "ARE YOU SURE YOU WANT TO RESTART?";
-  //   button.style.background = "rgba(221, 5, 5, 0.348)";
-  //   return;
-  // }
-  // if (button.outerText === "ARE YOU SURE YOU WANT TO RESTART?") {
-  //   localStorage.removeItem("prevStates");
-  //   window.location.reload();
-  // }
 }
 
 function restoreList() {
@@ -402,9 +392,25 @@ function showImage(undo) {
     "% SORTED";
   var str1 = "" + toNameFace(lstMember[cmp1][head1]);
   var str2 = "" + toNameFace(lstMember[cmp2][head2]);
+  var img1 = metadata[str1]?.image;
+  var img2 = metadata[str2]?.image;
+  const innerHtml1 = `
+  <div>
+    ${str1}
+    <br>
+    <img width="50" height="50" src="${img1}"/>
+  </div>
+  `;
+  const innerHtml2 = `
+  <div>
+    ${str2}
+    <br>
+    <img width="50" height="50" src="${img2}"/>
+  </div>
+  `;
   document.getElementById("battleNumber").innerHTML = str0;
-  document.getElementById("leftField").innerHTML = str1;
-  document.getElementById("rightField").innerHTML = str2;
+  document.getElementById("leftField").innerHTML = innerHtml1;
+  document.getElementById("rightField").innerHTML = innerHtml2;
 }
 
 function toNameFace(n) {
