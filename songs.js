@@ -354,7 +354,7 @@ var metadata = {
     trackNumber: 2,
     image: "img/sai.png",
   },
-  "Shy Awa (Scaled and Icy)y": {
+  "Shy Away (Scaled and Icy)": {
     album: "Scaled and Icy",
     trackNumber: 3,
     image: "img/sai.png",
