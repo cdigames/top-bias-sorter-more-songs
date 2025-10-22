@@ -44,7 +44,7 @@ var metadata = {
     trackNumber: 9,
     image: "img/st.png",
   },
-  Trapdoor: {
+  "Trapdoor": {
     album: "Self-Titled",
     trackNumber: 10,
     image: "img/st.png",
@@ -84,7 +84,7 @@ var metadata = {
     trackNumber: 3,
     image: "img/rab.jpg",
   },
-  Slowtown: {
+  "Slowtown": {
     album: "Regional at Best",
     trackNumber: 4,
     image: "img/rab.jpg",
@@ -94,7 +94,7 @@ var metadata = {
     trackNumber: 5,
     image: "img/rab.jpg",
   },
-  Forest: {
+  "Forest": {
     album: "Regional at Best",
     trackNumber: 6,
     image: "img/rab.jpg",
@@ -109,22 +109,22 @@ var metadata = {
     trackNumber: 8,
     image: "img/rab.jpg",
   },
-  Anathema: {
+  "Anathema": {
     album: "Regional at Best",
     trackNumber: 9,
     image: "img/rab.jpg",
   },
-  Lovely: {
+  "Lovely": {
     album: "Regional at Best",
     trackNumber: 10,
     image: "img/rab.jpg",
   },
-  Ruby: {
+  "Ruby": {
     album: "Regional at Best",
     trackNumber: 11,
     image: "img/rab.jpg",
   },
-  Trees: {
+  "Trees": {
     album: "Regional at Best",
     trackNumber: 12,
     image: "img/rab.jpg",
@@ -134,7 +134,7 @@ var metadata = {
     trackNumber: 13,
     image: "img/rab.jpg",
   },
-  Clear: {
+  "Clear": {
     album: "Regional at Best",
     trackNumber: 14,
     image: "img/rab.jpg",
@@ -149,7 +149,7 @@ var metadata = {
     trackNumber: 2,
     image: "img/vessel.jpg",
   },
-  Migraine: {
+  "Migraine": {
     album: "Vessel",
     trackNumber: 3,
     image: "img/vessel.jpg",
@@ -169,7 +169,7 @@ var metadata = {
     trackNumber: 6,
     image: "img/vessel.jpg",
   },
-  Screen: {
+  "Screen": {
     album: "Vessel",
     trackNumber: 7,
     image: "img/vessel.jpg",
@@ -189,17 +189,17 @@ var metadata = {
     trackNumber: 10,
     image: "img/vessel.jpg",
   },
-  Trees: {
+  "Trees": {
     album: "Vessel",
     trackNumber: 11,
     image: "img/vessel.jpg",
   },
-  Truce: {
+  "Truce": {
     album: "Vessel",
     trackNumber: 12,
     image: "img/vessel.jpg",
   },
-  Lovely: {
+  "Lovely": {
     album: "Vessel",
     trackNumber: 13,
     image: "img/lovely.jpg",
