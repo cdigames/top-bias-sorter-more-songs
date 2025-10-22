@@ -1,6 +1,4 @@
 var metadata = {
-    // Additional albums are at the bottom
-    // Self-Titled
   "Implicit Demand For Proof": {
     album: "Self-Titled",
     trackNumber: 1,
@@ -71,8 +69,7 @@ var metadata = {
     trackNumber: 14,
     image: "img/st.png",
   },
-    // Regional At Best
-  "Guns For Hands": {// Added the rest of Regional at Best since those songs differ so much from their re-made Vessel counterparts
+  "Guns For Hands": {
     album: "Regional at Best",
     trackNumber: 1,
     image: "img/rab.jpg",
@@ -142,7 +139,6 @@ var metadata = {
     trackNumber: 14,
     image: "img/rab.jpg",
   },
-  // Vessel
   "Ode To Sleep": {
     album: "Vessel",
     trackNumber: 1,
@@ -205,10 +201,9 @@ var metadata = {
   },
   Lovely: {
     album: "Vessel",
-    trackNumber: 13,// Added re-recorded Lovely to Vessel but gave it the Japan artwork it had for that version
+    trackNumber: 13,
     image: "img/lovely.jpg",
   },
-  // Blurryface
   HeavyDirtySoul: {
     album: "Blurryface",
     trackNumber: 1,
@@ -279,7 +274,6 @@ var metadata = {
     trackNumber: 14,
     image: "img/blurryface.png",
   },
-    // Trench
   Jumpsuit: {
     album: "Trench",
     trackNumber: 1,
@@ -350,7 +344,6 @@ var metadata = {
     trackNumber: 14,
     image: "img/trench.png",
   },
-  // Scaled and Icy
   "Good Day": {
     album: "Scaled and Icy",
     trackNumber: 1,
@@ -406,7 +399,6 @@ var metadata = {
     trackNumber: 11,
     image: "img/sai.png",
   },
-  // Clancy
   Overcompensate: {
     album: "Clancy",
     trackNumber: 1,
@@ -472,7 +464,6 @@ var metadata = {
     trackNumber: 13,
     image: "img/clancy.png",
   },
-  // Breach
   "City Walls": {
     album: "Breach",
     trackNumber: 1,
@@ -538,9 +529,8 @@ var metadata = {
     trackNumber: 13,
     image: "img/breach.png",
   },
-  // Singles
   "Drag Path": {
-    album: "Single",// Changed Drag Path to be a single, since it came out on Digital Remains
+    album: "Single",
     trackNumber: "Single",
     image: "img/drag.jpg",
   },
@@ -595,7 +585,7 @@ var metadata = {
     image: "img/goner.jpg"
   },
   "House of Gold": {
-    album: "Single",// I will fight anyone who tries to put this on Regional at Best
+    album: "Single",
     trackNumber: "Single",
     image: "img/hog.jpg"
   },
@@ -619,8 +609,6 @@ var metadata = {
     trackNumber: "Single",
     image: "img/rablogo.jpg"
   },
-  // Adding the additional albums below here, Blurryface Live, TOPxMM, Livestream, Location Sessions, MTV Unplugged, Live at the LC
-  // TOP x MM
   Heathens: {
     album: "TOPxMM",
     trackNumber: 1,
@@ -646,7 +634,6 @@ var metadata = {
     trackNumber: 5,
     image: "img/mm.jpg",
   },
-  // Blurryface Live
   Heavydirtysoul: {
     album: "Blurryface Live",
     trackNumber: 1,
@@ -737,7 +724,6 @@ var metadata = {
     trackNumber: 18,
     image: "img/bfl.jpg",
   },
-  // Live At UG Studios
   "Addict With A Pen": {
     album: "Live At UG Studios",
     trackNumber: 1,
@@ -753,7 +739,6 @@ var metadata = {
     trackNumber: 3,
     image: "img/ug.jpg",
   },
-  // Live at the LC Pavilion
   "Fake You Out": {
     album: "Live At The LC Pavilion",
     trackNumber: 1,
@@ -819,7 +804,6 @@ var metadata = {
     trackNumber: 13,
     image: "img/lc.jpg",
   },
-  // Spotify Sessions
   Intro: {
     album: "Spotify Sessions",
     trackNumber: 1,
@@ -855,7 +839,6 @@ var metadata = {
     trackNumber: 7,
     image: "img/spot.jpg",
   },
-  // MTV Unplugged
   Intro: {
     album: "MTV Unplugged",
     trackNumber: 1,
@@ -891,7 +874,6 @@ var metadata = {
     trackNumber: 7,
     image: "img/mtv.jpg",
   },
-  // Scaled And Icy Livestream Version BUT ONLY THE BONUS SONGS
   "Choker / Stressed Out / Migraine / Morph / Holding On To You": {
     album: "Scaled and Icy (Livestream Version)",
     trackNumber: 1,
@@ -942,7 +924,6 @@ var metadata = {
     trackNumber: 10,
     image: "img/livestream.jpg",
   },
-  // Location Sessions
   "Chlorine (Mexico City)": {
     album: "Location Sessions",
     trackNumber: 1,
@@ -963,5 +944,4 @@ var metadata = {
     trackNumber: 4,
     image: "img/sesh.jpg"
   },
-
 };
