@@ -1,70 +1,70 @@
 var metadata = {
-  "Implicit Demand For Proof": {
+  "Implicit Demand For Proof (Self-Titled)": {
     album: "Self-Titled",
     trackNumber: 1,
     image: "img/st.png",
   },
-  "Fall Away": {
+  "Fall Away (Self-Titled)": {
     album: "Self-Titled",
     trackNumber: 2,
     image: "img/st.png",
   },
-  "The Pantaloon": {
+  "The Pantaloon (Self-Titled)": {
     album: "Self-Titled",
     trackNumber: 3,
     image: "img/st.png",
   },
-  "Addict With A Pen": {
+  "Addict With A Pen (Self-Titled)": {
     album: "Self-Titled",
     trackNumber: 4,
     image: "img/st.png",
   },
-  "Friend, Please": {
+  "Friend, Please (Self-Titled)": {
     album: "Self-Titled",
     trackNumber: 5,
     image: "img/st.png",
   },
-  "March To The Sea": {
+  "March To The Sea (Self-Titled)": {
     album: "Self-Titled",
     trackNumber: 6,
     image: "img/st.png",
   },
-  "Johnny Boy": {
+  "Johnny Boy (Self-Titled)": {
     album: "Self-Titled",
     trackNumber: 7,
     image: "img/st.png",
   },
-  "Oh Ms Believer": {
+  "Oh Ms Believer (Self-Titled)": {
     album: "Self-Titled",
     trackNumber: 8,
     image: "img/st.png",
   },
-  "Air Catcher": {
+  "Air Catcher (Self-Titled)": {
     album: "Self-Titled",
     trackNumber: 9,
     image: "img/st.png",
   },
-  "Trapdoor": {
+  "Trapdoor (Self-Titled)": {
     album: "Self-Titled",
     trackNumber: 10,
     image: "img/st.png",
   },
-  "A Car, A Torch, A Death": {
+  "A Car, A Torch, A Death (Self-Titled)": {
     album: "Self-Titled",
     trackNumber: 11,
     image: "img/st.png",
   },
-  "Taxi Cab": {
+  "Taxi Cab (Self-Titled)": {
     album: "Self-Titled",
     trackNumber: 12,
     image: "img/st.png",
   },
-  "Before You Start Your Day": {
+  "Before You Start Your Day (Self-Titled)": {
     album: "Self-Titled",
     trackNumber: 13,
     image: "img/st.png",
   },
-  "Isle Of Flightless Birds": {
+  "Isle Of Flightless Birds (Self-Titled)": {
     album: "Self-Titled",
     trackNumber: 14,
     image: "img/st.png",
@@ -124,7 +124,7 @@ var metadata = {
     trackNumber: 11,
     image: "img/rab.jpg",
   },
-  "Trees": {
+  "Trees (Regional At Best)": {
     album: "Regional at Best",
     trackNumber: 12,
     image: "img/rab.jpg",
@@ -189,7 +189,7 @@ var metadata = {
     trackNumber: 10,
     image: "img/vessel.jpg",
   },
-  "Trees": {
+  "Trees (Vessel)": {
     album: "Vessel",
     trackNumber: 11,
     image: "img/vessel.jpg",
@@ -199,7 +199,7 @@ var metadata = {
     trackNumber: 12,
     image: "img/vessel.jpg",
   },
-  "Lovely": {
+  "Lovely (Vessel)": {
     album: "Vessel",
     trackNumber: 13,
     image: "img/lovely.jpg",
@@ -719,7 +719,7 @@ var metadata = {
     trackNumber: 17,
     image: "img/bfl.jpg",
   },
-  Trees: {
+  "Trees (Blurryface Live)": {
     album: "Blurryface Live",
     trackNumber: 18,
     image: "img/bfl.jpg",
@@ -799,7 +799,7 @@ var metadata = {
     trackNumber: 12,
     image: "img/lc.jpg",
   },
-  Trees: {
+  "Trees (Live At The LC Pavilion)": {
     album: "Live At The LC Pavilion",
     trackNumber: 13,
     image: "img/lc.jpg",
