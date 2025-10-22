@@ -69,57 +69,57 @@ var metadata = {
     trackNumber: 14,
     image: "img/st.png",
   },
-  "Guns For Hands": {
+  "Guns For Hands (Regional at Best)": {
     album: "Regional at Best",
     trackNumber: 1,
     image: "img/rab.jpg",
   },
-  "Holding On To You": {
+  "Holding On To You (Regional at Best)": {
     album: "Regional at Best",
     trackNumber: 2,
     image: "img/rab.jpg",
   },
-  "Ode To Sleep": {
+  "Ode To Sleep (Regional at Best)": {
     album: "Regional at Best",
     trackNumber: 3,
     image: "img/rab.jpg",
   },
-  "Slowtown": {
+  "Slowtown (Regional at Best)": {
     album: "Regional at Best",
     trackNumber: 4,
     image: "img/rab.jpg",
   },
-  "Car Radio": {
+  "Car Radio (Regional at Best)": {
     album: "Regional at Best",
     trackNumber: 5,
     image: "img/rab.jpg",
   },
-  "Forest": {
+  "Forest (Regional at Best)": {
     album: "Regional at Best",
     trackNumber: 6,
     image: "img/rab.jpg",
   },
-  "Glowing Eyes": {
+  "Glowing Eyes (Regional at Best)": {
     album: "Regional at Best",
     trackNumber: 7,
     image: "img/rab.jpg",
   },
-  "Kitchen Sink": {
+  "Kitchen Sink (Regional at Best)": {
     album: "Regional at Best",
     trackNumber: 8,
     image: "img/rab.jpg",
   },
-  "Anathema": {
+  "Anathema (Regional at Best)": {
     album: "Regional at Best",
     trackNumber: 9,
     image: "img/rab.jpg",
   },
-  "Lovely": {
+  "Lovely (Regional at Best)": {
     album: "Regional at Best",
     trackNumber: 10,
     image: "img/rab.jpg",
   },
-  "Ruby": {
+  "Ruby (Regional at Best)": {
     album: "Regional at Best",
     trackNumber: 11,
     image: "img/rab.jpg",
@@ -129,62 +129,62 @@ var metadata = {
     trackNumber: 12,
     image: "img/rab.jpg",
   },
-  "Be Concerned": {
+  "Be Concerned (Regional at Best)": {
     album: "Regional at Best",
     trackNumber: 13,
     image: "img/rab.jpg",
   },
-  "Clear": {
+  "Clear (Regional at Best)": {
     album: "Regional at Best",
     trackNumber: 14,
     image: "img/rab.jpg",
   },
-  "Ode To Sleep": {
+  "Ode To Sleep (Vessel)": {
     album: "Vessel",
     trackNumber: 1,
     image: "img/vessel.jpg",
   },
-  "Holding On To You": {
+  "Holding On To You (Vessel)": {
     album: "Vessel",
     trackNumber: 2,
     image: "img/vessel.jpg",
   },
-  "Migraine": {
+  "Migraine (Vessel)": {
     album: "Vessel",
     trackNumber: 3,
     image: "img/vessel.jpg",
   },
-  "House Of Gold": {
+  "House Of Gold (Vessel)": {
     album: "Vessel",
     trackNumber: 4,
     image: "img/vessel.jpg",
   },
-  "Car Radio": {
+  "Car Radio (Vessel)": {
     album: "Vessel",
     trackNumber: 5,
     image: "img/vessel.jpg",
   },
-  "Semi-Automatic": {
+  "Semi-Automatic (Vessel)": {
     album: "Vessel",
     trackNumber: 6,
     image: "img/vessel.jpg",
   },
-  "Screen": {
+  "Screen (Vessel)": {
     album: "Vessel",
     trackNumber: 7,
     image: "img/vessel.jpg",
   },
-  "The Run And Go": {
+  "The Run And Go (Vessel)": {
     album: "Vessel",
     trackNumber: 8,
     image: "img/vessel.jpg",
   },
-  "Fake You Out": {
+  "Fake You Out (Vessel)": {
     album: "Vessel",
     trackNumber: 9,
     image: "img/vessel.jpg",
   },
-  "Guns For Hands": {
+  "Guns For Hands (Vessel)": {
     album: "Vessel",
     trackNumber: 10,
     image: "img/vessel.jpg",
@@ -194,7 +194,7 @@ var metadata = {
     trackNumber: 11,
     image: "img/vessel.jpg",
   },
-  "Truce": {
+  "Truce (Vessel)": {
     album: "Vessel",
     trackNumber: 12,
     image: "img/vessel.jpg",
@@ -204,227 +204,227 @@ var metadata = {
     trackNumber: 13,
     image: "img/lovely.jpg",
   },
-  HeavyDirtySoul: {
+  "Heavydirtysoul (Blurryface)": {
     album: "Blurryface",
     trackNumber: 1,
     image: "img/blurryface.png",
   },
-  "Stressed Out": {
+  "Stressed Out (Blurryface)": {
     album: "Blurryface",
     trackNumber: 2,
     image: "img/blurryface.png",
   },
-  Ride: {
+  "Ride (Blurryface)": {
     album: "Blurryface",
     trackNumber: 3,
     image: "img/blurryface.png",
   },
-  "Fairly Local": {
+  "Fairly Local (Blurryface)": {
     album: "Blurryface",
     trackNumber: 4,
     image: "img/blurryface.png",
   },
-  "Tear In My Heart": {
+  "Tear In My Heart (Blurryface)": {
     album: "Blurryface",
     trackNumber: 5,
     image: "img/blurryface.png",
   },
-  "Lane Boy": {
+  "Lane Boy (Blurryface)": {
     album: "Blurryface",
     trackNumber: 6,
     image: "img/blurryface.png",
   },
-  "The Judge": {
+  "The Judge (Blurryface)": {
     album: "Blurryface",
     trackNumber: 7,
     image: "img/blurryface.png",
   },
-  Doubt: {
+  "Doubt (Blurryface)": {
     album: "Blurryface",
     trackNumber: 8,
     image: "img/blurryface.png",
   },
-  Polarize: {
+  "Polarize (Blurryface)": {
     album: "Blurryface",
     trackNumber: 9,
     image: "img/blurryface.png",
   },
-  "We Don't Believe What's On T.V.": {
+  "We Don't Believe What's On T.V. (Blurryface)": {
     album: "Blurryface",
     trackNumber: 10,
     image: "img/blurryface.png",
   },
-  "Message Man": {
+  "Message Man (Blurryface)": {
     album: "Blurryface",
     trackNumber: 11,
     image: "img/blurryface.png",
   },
-  Hometown: {
+  "Hometown (Blurryface)": {
     album: "Blurryface",
     trackNumber: 12,
     image: "img/blurryface.png",
   },
-  "Not Today": {
+  "Not Today (Blurryface)": {
     album: "Blurryface",
     trackNumber: 13,
     image: "img/blurryface.png",
   },
-  Goner: {
+  "Goner (Blurryface)": {
     album: "Blurryface",
     trackNumber: 14,
     image: "img/blurryface.png",
   },
-  Jumpsuit: {
+  "Jumpsuit (Trench)": {
     album: "Trench",
     trackNumber: 1,
     image: "img/trench.png",
   },
-  Levitate: {
+  "Levitate (Trench)": {
     album: "Trench",
     trackNumber: 2,
     image: "img/trench.png",
   },
-  Morph: {
+  "Morph (Trench)": {
     album: "Trench",
     trackNumber: 3,
     image: "img/trench.png",
   },
-  "My Blood": {
+  "My Blood (Trench)": {
     album: "Trench",
     trackNumber: 4,
     image: "img/trench.png",
   },
-  Chlorine: {
+  "Chlorine (Trench)": {
     album: "Trench",
     trackNumber: 5,
     image: "img/trench.png",
   },
-  Smithereens: {
+  "Smithereens (Trench)": {
     album: "Trench",
     trackNumber: 6,
     image: "img/trench.png",
   },
-  "Neon Gravestones": {
+  "Neon Gravestones (Trench)": {
     album: "Trench",
     trackNumber: 7,
     image: "img/trench.png",
   },
-  "The Hype": {
+  "The Hype (Trench)": {
     album: "Trench",
     trackNumber: 8,
     image: "img/trench.png",
   },
-  "Nico And The Niners": {
+  "Nico And The Niners (Trench)": {
     album: "Trench",
     trackNumber: 9,
     image: "img/trench.png",
   },
-  "Cut My Lip": {
+  "Cut My Lip (Trench)": {
     album: "Trench",
     trackNumber: 10,
     image: "img/trench.png",
   },
-  Bandito: {
+  "Bandito (Trench)": {
     album: "Trench",
     trackNumber: 11,
     image: "img/trench.png",
   },
-  "Pet Cheetah": {
+  "Pet Cheetah (Trench)": {
     album: "Trench",
     trackNumber: 12,
     image: "img/trench.png",
   },
-  Legend: {
+  "Legend (Trench)": {
     album: "Trench",
     trackNumber: 13,
     image: "img/trench.png",
   },
-  "Leave The City": {
+  "Leave The City (Trench)": {
     album: "Trench",
     trackNumber: 14,
     image: "img/trench.png",
   },
-  "Good Day": {
+  "Good Day (Scaled and Icy)": {
     album: "Scaled and Icy",
     trackNumber: 1,
     image: "img/sai.png",
   },
-  Choker: {
+  "Choker (Scaled and Icy)": {
     album: "Scaled and Icy",
     trackNumber: 2,
     image: "img/sai.png",
   },
-  "Shy Away": {
+  "Shy Awa (Scaled and Icy)y": {
     album: "Scaled and Icy",
     trackNumber: 3,
     image: "img/sai.png",
   },
-  "The Outside": {
+  "The Outside (Scaled and Icy)": {
     album: "Scaled and Icy",
     trackNumber: 4,
     image: "img/sai.png",
   },
-  Saturday: {
+  "Saturday (Scaled and Icy)": {
     album: "Scaled and Icy",
     trackNumber: 5,
     image: "img/sai.png",
   },
-  "Never Take It": {
+  "Never Take It (Scaled and Icy)": {
     album: "Scaled and Icy",
     trackNumber: 6,
     image: "img/sai.png",
   },
-  "Mulberry Street": {
+  "Mulberry Street (Scaled and Icy)": {
     album: "Scaled and Icy",
     trackNumber: 7,
     image: "img/sai.png",
   },
-  Formidable: {
+  "Formidable (Scaled and Icy)": {
     album: "Scaled and Icy",
     trackNumber: 8,
     image: "img/sai.png",
   },
-  "Bounce Man": {
+  "Bounce Man (Scaled and Icy)": {
     album: "Scaled and Icy",
     trackNumber: 9,
     image: "img/sai.png",
   },
-  "No Chances": {
+  "No Chances (Scaled and Icy)": {
     album: "Scaled and Icy",
     trackNumber: 10,
     image: "img/sai.png",
   },
-  Redecorate: {
+  "Redecorate  (Scaled and Icy)": {
     album: "Scaled and Icy",
     trackNumber: 11,
     image: "img/sai.png",
   },
-  Overcompensate: {
+  "Overcompensate (Clancy)": {
     album: "Clancy",
     trackNumber: 1,
     image: "img/clancy.png",
   },
-  "Next Semester": {
+  "Next Semester (Clancy)": {
     album: "Clancy",
     trackNumber: 2,
     image: "img/clancy.png",
   },
-  Backslide: {
+  "Backslide (Clancy)": {
     album: "Clancy",
     trackNumber: 3,
     image: "img/clancy.png",
   },
-  "Midwest Indigo": {
+  "Midwest Indigo (Clancy)": {
     album: "Clancy",
     trackNumber: 4,
     image: "img/clancy.png",
   },
-  "Routines In The Night": {
+  "Routines In The Night (Clancy)": {
     album: "Clancy",
     trackNumber: 5,
     image: "img/clancy.png",
   },
-  Vignette: {
+  "Vignette (Clancy)": {
     album: "Clancy",
     trackNumber: 6,
     image: "img/clancy.png",
@@ -434,122 +434,122 @@ var metadata = {
     trackNumber: 7,
     image: "img/clancy.png",
   },
-  Lavish: {
+  "Lavish (Clancy)": {
     album: "Clancy",
     trackNumber: 8,
     image: "img/clancy.png",
   },
-  Navigating: {
+  "Navigating (Clancy)": {
     album: "Clancy",
     trackNumber: 9,
     image: "img/clancy.png",
   },
-  "Snap Back": {
+  "Snap Back (Clancy)": {
     album: "Clancy",
     trackNumber: 10,
     image: "img/clancy.png",
   },
-  "Oldies Station": {
+  "Oldies Station (Clancy)": {
     album: "Clancy",
     trackNumber: 11,
     image: "img/clancy.png",
   },
-  "At The Risk Of Feeling Dumb": {
+  "At The Risk Of Feeling Dumb (Clancy)": {
     album: "Clancy",
     trackNumber: 12,
     image: "img/clancy.png",
   },
-  "Paladin Strait": {
+  "Paladin Strait (Clancy)": {
     album: "Clancy",
     trackNumber: 13,
     image: "img/clancy.png",
   },
-  "City Walls": {
+  "City Walls (Breach)": {
     album: "Breach",
     trackNumber: 1,
     image: "img/breach.png",
   },
-  RAWFEAR: {
+  "RAWFEAR (Breach)": {
     album: "Breach",
     trackNumber: 2,
     image: "img/breach.png",
   },
-  "Drum Show": {
+  "Drum Show (Breach)": {
     album: "Breach",
     trackNumber: 3,
     image: "img/breach.png",
   },
-  Garbage: {
+  "Garbage (Breach)": {
     album: "Breach",
     trackNumber: 4,
     image: "img/breach.png",
   },
-  "The Contract": {
+  "The Contract (Breach)": {
     album: "Breach",
     trackNumber: 5,
     image: "img/breach.png",
   },
-  Downstairs: {
+  "Downstairs (Breach)": {
     album: "Breach",
     trackNumber: 6,
     image: "img/breach.png",
   },
-  "Robot Voices": {
+  "Robot Voices (Breach)": {
     album: "Breach",
     trackNumber: 7,
     image: "img/breach.png",
   },
-  "Center Mass": {
+  "Center Mass (Breach)": {
     album: "Breach",
     trackNumber: 8,
     image: "img/breach.png",
   },
-  Cottonwood: {
+  "Cottonwood (Breach)": {
     album: "Breach",
     trackNumber: 9,
     image: "img/breach.png",
   },
-  "One Way": {
+  "One Way (Breach)": {
     album: "Breach",
     trackNumber: 10,
     image: "img/breach.png",
   },
-  "Days Lie Dormant": {
+  "Days Lie Dormant (Breach)": {
     album: "Breach",
     trackNumber: 11,
     image: "img/breach.png",
   },
-  Tally: {
+  "Tally (Breach)": {
     album: "Breach",
     trackNumber: 12,
     image: "img/breach.png",
   },
-  Intentions: {
+  "Intentions (Breach)": {
     album: "Breach",
     trackNumber: 13,
     image: "img/breach.png",
   },
-  "Drag Path": {
+  "Drag Path (Digital Remains)": {
     album: "Single",
     trackNumber: "Single",
     image: "img/drag.jpg",
   },
-  "Time To Say Goodbye": {
+  "Time To Say Goodbye (Single)": {
     album: "Single",
     trackNumber: "Single",
     image: "img/stlogo.jpg",
   },
-  Heathens: {
+  "Heathens  (Single)": {
     album: "Single",
     trackNumber: "Single",
     image: "img/heathens.jpg",
   },
-  "Level of Concern": {
+  "Level of Concern (Single)": {
     album: "Single",
     trackNumber: "Single",
     image: "img/loc.jpg",
   },
-  "Christmas Saves The Year": {
+  "Christmas Saves The Year (Single)": {
     album: "Single",
     trackNumber: "Single",
     image: "img/csty.jpg",
@@ -559,17 +559,17 @@ var metadata = {
     trackNumber: "Single",
     image: "img/crave.jpg",
   },
-  "The Line": {
+  "The Line (Single)": {
     album: "Single",
     trackNumber: "Single",
     image: "img/theline.jpg",
   },
-   Cancer: {
+  "Cancer (Single)": {
     album: "Single",
     trackNumber: "Single",
     image: "img/cancer.jpg",
   },
-  "Jar of Hearts": {
+  "Jar of Hearts (Single)": {
     album: "Single",
     trackNumber: "Single",
     image: "img/jar.jpg",
@@ -584,137 +584,137 @@ var metadata = {
     trackNumber: "Single",
     image: "img/goner.jpg"
   },
-  "House of Gold": {
+  "House of Gold (Single)": {
     album: "Single",
     trackNumber: "Single",
     image: "img/hog.jpg"
   },
-  Save: {
+  "Save (Single)": {
     album: "Single",
     trackNumber: "Single",
     image: "img/stlogo.jpg",
   },
-  Two: {
+  "Two (Single)": {
     album: "Single",
     trackNumber: "Single",
     image: "img/rablogo.jpg",
   },
-  "Can't Help Falling in Love": {
+  "Can't Help Falling in Love (Single)": {
     album: "Single",
     trackNumber: "Single",
     image: "img/hoty.jpg",
   },
-  Screen: {
+  "Screen (Single)": {
     album: "Single",
     trackNumber: "Single",
     image: "img/rablogo.jpg"
   },
-  Heathens: {
+  "Heathens (TOPxMM)": {
     album: "TOPxMM",
     trackNumber: 1,
     image: "img/mm.jpg",
   },
-  Heavydirtysoul: {
+  "Heavydirtysoul (TOPxMM)": {
     album: "TOPxMM",
     trackNumber: 2,
     image: "img/mm.jpg",
   },
-  Ride: {
+  "Ride (TOPxMM)": {
     album: "TOPxMM",
     trackNumber: 3,
     image: "img/mm.jpg",
   },
-  "Tear In My Heart": {
+  "Tear In My Heart (TOPxMM)": {
     album: "TOPxMM",
     trackNumber: 4,
     image: "img/mm.jpg",
   },
-  "Lane Boy": {
+  "Lane Boy (TOPxMM)": {
     album: "TOPxMM",
     trackNumber: 5,
     image: "img/mm.jpg",
   },
-  Heavydirtysoul: {
+  "Heavydirtysoul (Blurryface Live)": {
     album: "Blurryface Live",
     trackNumber: 1,
     image: "img/bfl.jpg",
   },
-  "Stressed Out": {
+  "Stressed Out (Blurryface Live)": {
     album: "Blurryface Live",
     trackNumber: 2,
     image: "img/bfl.jpg",
   },
-  "Guns For Hands": {
+  "Guns For Hands (Blurryface Live)": {
     album: "Blurryface Live",
     trackNumber: 3,
     image: "img/bfl.jpg",
   },
-  Migraine: {
+  "Migraine (Blurryface Live)": {
     album: "Blurryface Live",
     trackNumber: 4,
     image: "img/bfl.jpg",
   },
-  Polarize: {
+  "Polarize (Blurryface Live)": {
     album: "Blurryface Live",
     trackNumber: 5,
     image: "img/bfl.jpg",
   },
-  "We Don't Believe What's On TV": {
+  "We Don't Believe What's On TV (Blurryface Live)": {
     album: "Blurryface Live",
     trackNumber: 6,
     image: "img/bfl.jpg",
   },
-  "The Judge": {
+  "The Judge (Blurryface Live)": {
     album: "Blurryface Live",
     trackNumber: 7,
     image: "img/bfl.jpg",
   },
-  "Lane Boy": {
+  "Lane Boy (Blurryface Live)": {
     album: "Blurryface Live",
     trackNumber: 8,
     image: "img/bfl.jpg",
   },
-  "[Medley Mashup]": {
+  "[Medley Mashup] (Blurryface Live)": {
     album: "Blurryface Live",
     trackNumber: 9,
     image: "img/bfl.jpg",
   },
-  Doubt: {
+  "Doubt (Blurryface Live)": {
     album: "Blurryface Live",
     trackNumber: 10,
     image: "img/bfl.jpg",
   },
-  "Message Man": {
+  "Message Man (Blurryface Live)": {
     album: "Blurryface Live",
     trackNumber: 11,
     image: "img/bfl.jpg",
   },
-  "Holding On To You": {
+  "Holding On To You (Blurryface Live)": {
     album: "Blurryface Live",
     trackNumber: 12,
     image: "img/bfl.jpg",
   },
-  Ride: {
+  "Ride (Blurryface Live)": {
     album: "Blurryface Live",
     trackNumber: 13,
     image: "img/bfl.jpg",
   },
-  "The Run And Go": {
+  "The Run And Go (Blurryface Live)": {
     album: "Blurryface Live",
     trackNumber: 14,
     image: "img/bfl.jpg",
   },
-  "Tear In My Heart": {
+  "Tear In My Heart (Blurryface Live)": {
     album: "Blurryface Live",
     trackNumber: 15,
     image: "img/bfl.jpg",
   },
-  "Car Radio": {
+  "Car Radio (Blurryface Live)": {
     album: "Blurryface Live",
     trackNumber: 16,
     image: "img/bfl.jpg",
   },
-  Goner: {
+  "Goner (Blurryface Live)": {
     album: "Blurryface Live",
     trackNumber: 17,
     image: "img/bfl.jpg",
@@ -724,77 +724,77 @@ var metadata = {
     trackNumber: 18,
     image: "img/bfl.jpg",
   },
-  "Addict With A Pen": {
+  "Addict With A Pen (UG Studios)": {
     album: "Live At UG Studios",
     trackNumber: 1,
     image: "img/ug.jpg",
   },
-  "Car Radio": {
+  "Car Radio (UG Studios)": {
     album: "Live At UG Studios",
     trackNumber: 2,
     image: "img/ug.jpg",
   },
-  "Holding On To You": {
+  "Holding On To You (UG Studios)": {
     album: "Live At UG Studios",
     trackNumber: 3,
     image: "img/ug.jpg",
   },
-  "Fake You Out": {
+  "Fake You Out (Live At The LC)": {
     album: "Live At The LC Pavilion",
     trackNumber: 1,
     image: "img/lc.jpg",
   },
-  Migraine: {
+  "Migraine (Live At The LC)": {
     album: "Live At The LC Pavilion",
     trackNumber: 2,
     image: "img/lc.jpg",
   },
-  Screen: {
+  "Screen (Live At The LC)": {
     album: "Live At The LC Pavilion",
     trackNumber: 3,
     image: "img/lc.jpg",
   },
-  "House Of Gold": {
+  "House Of Gold (Live At The LC)": {
     album: "Live At The LC Pavilion",
     trackNumber: 4,
     image: "img/lc.jpg",
   },
-  Forest: {
+  "Forest (Live At The LC)": {
     album: "Live At The LC Pavilion",
     trackNumber: 5,
     image: "img/lc.jpg",
   },
-  "The Pantaloon": {
+  "The Pantaloon (Live At The LC)": {
     album: "Live At The LC Pavilion",
     trackNumber: 6,
     image: "img/lc.jpg",
   },
-  "Addict With A Pen": {
+  "Addict With A Pen (Live At The LC)": {
     album: "Live At The LC Pavilion",
     trackNumber: 7,
     image: "img/lc.jpg",
   },
-  "Kitchen Sink": {
+  "Kitchen Sink (Live At The LC)": {
     album: "Live At The LC Pavilion",
     trackNumber: 8,
     image: "img/lc.jpg",
   },
-  "Ode To Sleep": {
+  "Ode To Sleep (Live At The LC)": {
     album: "Live At The LC Pavilion",
     trackNumber: 9,
     image: "img/lc.jpg",
   },
-  "Semi Automatic": {
+  "Semi Automatic (Live At The LC)": {
     album: "Live At The LC Pavilion",
     trackNumber: 10,
     image: "img/lc.jpg",
   },
-  "Holding On To You": {
+  "Holding On To You (Live At The LC)": {
     album: "Live At The LC Pavilion",
     trackNumber: 11,
     image: "img/lc.jpg",
   },
-  "Car Radio": {
+  "Car Radio (Live At The LC)": {
     album: "Live At The LC Pavilion",
     trackNumber: 12,
     image: "img/lc.jpg",
@@ -804,122 +804,122 @@ var metadata = {
     trackNumber: 13,
     image: "img/lc.jpg",
   },
-  Intro: {
+  "Intro (Spotify Sessions)": {
     album: "Spotify Sessions",
     trackNumber: 1,
     image: "img/spot.jpg",
   },
-  "Ode To Sleep": {
+  "Ode To Sleep (Spotify Sessions)": {
     album: "Spotify Sessions",
     trackNumber: 2,
     image: "img/spot.jpg",
   },
-  Migraine: {
+  "Migraine (Spotify Sessions)": {
     album: "Spotify Sessions",
     trackNumber: 3,
     image: "img/spot.jpg",
   },
-  Screen: {
+  "Screen (Spotify Sessions)": {
     album: "Spotify Sessions",
     trackNumber: 4,
     image: "img/spot.jpg",
   },
-  "Holding On To You": {
+  "Holding On To You (Spotify Sessions)": {
     album: "Spotify Sessions",
     trackNumber: 5,
     image: "img/spot.jpg",
   },
-  "Car Radio": {
+  "Car Radio (Spotify Sessions)": {
     album: "Spotify Sessions",
     trackNumber: 6,
     image: "img/spot.jpg",
   },
-  "Guns For Hands": {
+  "Guns For Hands (Spotify Sessions)": {
     album: "Spotify Sessions",
     trackNumber: 7,
     image: "img/spot.jpg",
   },
-  Intro: {
+  "Intro (MTV Unplugged)": {
     album: "MTV Unplugged",
     trackNumber: 1,
     image: "img/mtv.jpg",
   },
-  "Stressed Out": {
+  "Stressed Out (MTV Unplugged)": {
     album: "MTV Unplugged",
     trackNumber: 2,
     image: "img/mtv.jpg",
   },
-  "Tear In My Heart": {
+  "Tear In My Heart (MTV Unplugged)": {
     album: "MTV Unplugged",
     trackNumber: 3,
     image: "img/mtv.jpg",
   },
-  "House Of Gold / Lane Boy": {
+  "House Of Gold / Lane Boy (MTV Unplugged)": {
     album: "MTV Unplugged",
     trackNumber: 4,
     image: "img/mtv.jpg",
   },
-  "Shy Away": {
+  "Shy Away (MTV Unplugged)": {
     album: "MTV Unplugged",
     trackNumber: 5,
     image: "img/mtv.jpg",
   },
-  "Ride / Nico And The Niners": {
+  "Ride / Nico And The Niners (MTV Unplugged)": {
     album: "MTV Unplugged",
     trackNumber: 6,
     image: "img/mtv.jpg",
   },
-  "Car Radio / Heathens": {
+  "Car Radio / Heathens (MTV Unplugged)": {
     album: "MTV Unplugged",
     trackNumber: 7,
     image: "img/mtv.jpg",
   },
-  "Choker / Stressed Out / Migraine / Morph / Holding On To You": {
+  "Choker / Stressed Out / Migraine / Morph / Holding On To You (Livestream)": {
     album: "Scaled and Icy (Livestream Version)",
     trackNumber: 1,
     image: "img/livestream.jpg",
   },
-  "Mulberry Street": {
+  "Mulberry Street (Livestream)": {
     album: "Scaled and Icy (Livestream Version)",
     trackNumber: 2,
     image: "img/livestream.jpg",
   },
-  "Lane Boy / Redecorate / Chlorine": {
+  "Lane Boy / Redecorate / Chlorine (Livestream)": {
     album: "Scaled and Icy (Livestream Version)",
     trackNumber: 3,
     image: "img/livestream.jpg",
   },
-  "Shy Away": {
+  "Shy Away (Livestream)": {
     album: "Scaled and Icy (Livestream Version)",
     trackNumber: 4,
     image: "img/livestream.jpg",
   },
-  "The Outside": {
+  "The Outside (Livestream)": {
     album: "Scaled and Icy (Livestream Version)",
     trackNumber: 5,
     image: "img/livestream.jpg",
   },
-  "Heathens / Trees": {
+  "Heathens / Trees (Livestream)": {
     album: "Scaled and Icy (Livestream Version)",
     trackNumber: 6,
     image: "img/livestream.jpg",
   },
-  "Jumpsuit / Heavydirtysoul": {
+  "Jumpsuit / Heavydirtysoul (Livestream)": {
     album: "Scaled and Icy (Livestream Version)",
     trackNumber: 7,
     image: "img/livestream.jpg",
   },
-  "Saturday / Level Of Concern / Ride / Car Radio": {
+  "Saturday / Level Of Concern / Ride / Car Radio (Livestream)": {
     album: "Scaled and Icy (Livestream Version)",
     trackNumber: 8,
     image: "img/livestream.jpg",
   },
-  "Never Take It": {
+  "Never Take It (Livestream)": {
     album: "Scaled and Icy (Livestream Version)",
     trackNumber: 9,
     image: "img/livestream.jpg",
   },
-  "Level Of Concern": {
+  "Level Of Concern (Livestream)": {
     album: "Scaled and Icy (Livestream Version)",
     trackNumber: 10,
     image: "img/livestream.jpg",
