@@ -199,6 +199,11 @@ var metadata = {
     trackNumber: 12,
     image: "img/vessel.jpg",
   },
+  Lovely: {
+    album: "Vessel",
+    trackNumber: 13,
+    image: "img/lovely.jpg",
+  },
   HeavyDirtySoul: {
     album: "Blurryface",
     trackNumber: 1,
@@ -525,38 +530,63 @@ var metadata = {
     image: "img/breach.png",
   },
   "Drag Path": {
-    album: "Breach",
-    trackNumber: "14",
-    image: "img/breach.png",
+    album: "Single",
+    trackNumber: "Single",
+    image: "img/drag.jpg",
   },
   "Time To Say Goodbye": {
     album: "Single",
     trackNumber: "Single",
-    image: "img/logo.png",
+    image: "img/stlogo.jpg",
   },
   Heathens: {
     album: "Single",
     trackNumber: "Single",
-    image: "img/logo.png",
+    image: "img/heathens.jpg",
   },
   "Level of Concern": {
     album: "Single",
     trackNumber: "Single",
-    image: "img/logo.png",
+    image: "img/loc.jpg",
   },
   "Christmas Saves The Year": {
     album: "Single",
     trackNumber: "Single",
-    image: "img/logo.png",
+    image: "img/csty.jpg",
   },
   "The Craving (Single Version)": {
     album: "Single",
     trackNumber: "Single",
-    image: "img/logo.png",
+    image: "img/crave.jpg",
   },
   "The Line": {
     album: "Single",
     trackNumber: "Single",
-    image: "img/logo.png",
+    image: "img/theline.jpg",
+  },
+   Cancer: {
+    album: "Single",
+    trackNumber: "Single",
+    image: "img/cancer.jpg",
+  },
+  "Jar of Hearts": {
+    album: "Single",
+    trackNumber: "Single",
+    image: "img/jar.jpg",
+  },
+  "Air Catcher (Studio Version)": {
+    album: "Single",
+    trackNumber: "Single",
+    image: "img/stlogo.jpg"
+  },
+  "Goner (YouTube)": {
+    album: "Single",
+    trackNumber: "Single",
+    image: "img/goner.jpg"
+  },
+  "House of Gold": {
+    album: "Single",
+    trackNumber: "Single",
+    image: "img/hog.jpg"
   },
 };
