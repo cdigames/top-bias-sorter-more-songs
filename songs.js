@@ -69,9 +69,29 @@ var metadata = {
     trackNumber: 14,
     image: "img/st.png",
   },
+  "Guns For Hands": {
+    album: "Regional at Best",
+    trackNumber: 1,
+    image: "img/rab.jpg",
+  },
+  "Holding On To You": {
+    album: "Regional at Best",
+    trackNumber: 2,
+    image: "img/rab.jpg",
+  },
+  "Ode To Sleep": {
+    album: "Regional at Best",
+    trackNumber: 3,
+    image: "img/rab.jpg",
+  },
   Slowtown: {
     album: "Regional at Best",
     trackNumber: 4,
+    image: "img/rab.jpg",
+  },
+  "Car Radio": {
+    album: "Regional at Best",
+    trackNumber: 5,
     image: "img/rab.jpg",
   },
   Forest: {
@@ -102,6 +122,11 @@ var metadata = {
   Ruby: {
     album: "Regional at Best",
     trackNumber: 11,
+    image: "img/rab.jpg",
+  },
+  Trees: {
+    album: "Regional at Best",
+    trackNumber: 12,
     image: "img/rab.jpg",
   },
   "Be Concerned": {
