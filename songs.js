@@ -1,4 +1,6 @@
 var metadata = {
+    // Additional albums are at the bottom
+    // Self-Titled
   "Implicit Demand For Proof": {
     album: "Self-Titled",
     trackNumber: 1,
@@ -69,7 +71,8 @@ var metadata = {
     trackNumber: 14,
     image: "img/st.png",
   },
-  "Guns For Hands": {
+    // Regional At Best
+  "Guns For Hands": {// Added the rest of Regional at Best since those songs differ so much from their re-made Vessel counterparts
     album: "Regional at Best",
     trackNumber: 1,
     image: "img/rab.jpg",
@@ -139,6 +142,7 @@ var metadata = {
     trackNumber: 14,
     image: "img/rab.jpg",
   },
+  // Vessel
   "Ode To Sleep": {
     album: "Vessel",
     trackNumber: 1,
@@ -201,9 +205,10 @@ var metadata = {
   },
   Lovely: {
     album: "Vessel",
-    trackNumber: 13,
+    trackNumber: 13,// Added re-recorded Lovely to Vessel but gave it the Japan artwork it had for that version
     image: "img/lovely.jpg",
   },
+  // Blurryface
   HeavyDirtySoul: {
     album: "Blurryface",
     trackNumber: 1,
@@ -274,6 +279,7 @@ var metadata = {
     trackNumber: 14,
     image: "img/blurryface.png",
   },
+    // Trench
   Jumpsuit: {
     album: "Trench",
     trackNumber: 1,
@@ -344,6 +350,7 @@ var metadata = {
     trackNumber: 14,
     image: "img/trench.png",
   },
+  // Scaled and Icy
   "Good Day": {
     album: "Scaled and Icy",
     trackNumber: 1,
@@ -399,6 +406,7 @@ var metadata = {
     trackNumber: 11,
     image: "img/sai.png",
   },
+  // Clancy
   Overcompensate: {
     album: "Clancy",
     trackNumber: 1,
@@ -464,6 +472,7 @@ var metadata = {
     trackNumber: 13,
     image: "img/clancy.png",
   },
+  // Breach
   "City Walls": {
     album: "Breach",
     trackNumber: 1,
@@ -529,8 +538,9 @@ var metadata = {
     trackNumber: 13,
     image: "img/breach.png",
   },
+  // Singles
   "Drag Path": {
-    album: "Single",
+    album: "Single",// Changed Drag Path to be a single, since it came out on Digital Remains
     trackNumber: "Single",
     image: "img/drag.jpg",
   },
@@ -585,8 +595,373 @@ var metadata = {
     image: "img/goner.jpg"
   },
   "House of Gold": {
-    album: "Single",
+    album: "Single",// I will fight anyone who tries to put this on Regional at Best
     trackNumber: "Single",
     image: "img/hog.jpg"
   },
+  Save: {
+    album: "Single",
+    trackNumber: "Single",
+    image: "img/stlogo.jpg",
+  },
+  Two: {
+    album: "Single",
+    trackNumber: "Single",
+    image: "img/rablogo.jpg",
+  },
+  "Can't Help Falling in Love": {
+    album: "Single",
+    trackNumber: "Single",
+    image: "img/hoty.jpg",
+  },
+  Screen: {
+    album: "Single",
+    trackNumber: "Single",
+    image: "img/rablogo.jpg"
+  },
+  // Adding the additional albums below here, Blurryface Live, TOPxMM, Livestream, Location Sessions, MTV Unplugged, Live at the LC
+  // TOP x MM
+  Heathens: {
+    album: "TOPxMM",
+    trackNumber: 1,
+    image: "img/mm.jpg",
+  },
+  Heavydirtysoul: {
+    album: "TOPxMM",
+    trackNumber: 2,
+    image: "img/mm.jpg",
+  },
+  Ride: {
+    album: "TOPxMM",
+    trackNumber: 3,
+    image: "img/mm.jpg",
+  },
+  "Tear In My Heart": {
+    album: "TOPxMM",
+    trackNumber: 4,
+    image: "img/mm.jpg",
+  },
+  "Lane Boy": {
+    album: "TOPxMM",
+    trackNumber: 5,
+    image: "img/mm.jpg",
+  },
+  // Blurryface Live
+  Heavydirtysoul: {
+    album: "Blurryface Live",
+    trackNumber: 1,
+    image: "img/bfl.jpg",
+  },
+  "Stressed Out": {
+    album: "Blurryface Live",
+    trackNumber: 2,
+    image: "img/bfl.jpg",
+  },
+  "Guns For Hands": {
+    album: "Blurryface Live",
+    trackNumber: 3,
+    image: "img/bfl.jpg",
+  },
+  Migraine: {
+    album: "Blurryface Live",
+    trackNumber: 4,
+    image: "img/bfl.jpg",
+  },
+  Polarize: {
+    album: "Blurryface Live",
+    trackNumber: 5,
+    image: "img/bfl.jpg",
+  },
+  "We Don't Believe What's On TV": {
+    album: "Blurryface Live",
+    trackNumber: 6,
+    image: "img/bfl.jpg",
+  },
+  "The Judge": {
+    album: "Blurryface Live",
+    trackNumber: 7,
+    image: "img/bfl.jpg",
+  },
+  "Lane Boy": {
+    album: "Blurryface Live",
+    trackNumber: 8,
+    image: "img/bfl.jpg",
+  },
+  "[Medley Mashup]": {
+    album: "Blurryface Live",
+    trackNumber: 9,
+    image: "img/bfl.jpg",
+  },
+  Doubt: {
+    album: "Blurryface Live",
+    trackNumber: 10,
+    image: "img/bfl.jpg",
+  },
+  "Message Man": {
+    album: "Blurryface Live",
+    trackNumber: 11,
+    image: "img/bfl.jpg",
+  },
+  "Holding On To You": {
+    album: "Blurryface Live",
+    trackNumber: 12,
+    image: "img/bfl.jpg",
+  },
+  Ride: {
+    album: "Blurryface Live",
+    trackNumber: 13,
+    image: "img/bfl.jpg",
+  },
+  "The Run And Go": {
+    album: "Blurryface Live",
+    trackNumber: 14,
+    image: "img/bfl.jpg",
+  },
+  "Tear In My Heart": {
+    album: "Blurryface Live",
+    trackNumber: 15,
+    image: "img/bfl.jpg",
+  },
+  "Car Radio": {
+    album: "Blurryface Live",
+    trackNumber: 16,
+    image: "img/bfl.jpg",
+  },
+  Goner: {
+    album: "Blurryface Live",
+    trackNumber: 17,
+    image: "img/bfl.jpg",
+  },
+  Trees: {
+    album: "Blurryface Live",
+    trackNumber: 18,
+    image: "img/bfl.jpg",
+  },
+  // Live At UG Studios
+  "Addict With A Pen": {
+    album: "Live At UG Studios",
+    trackNumber: 1,
+    image: "img/ug.jpg",
+  },
+  "Car Radio": {
+    album: "Live At UG Studios",
+    trackNumber: 2,
+    image: "img/ug.jpg",
+  },
+  "Holding On To You": {
+    album: "Live At UG Studios",
+    trackNumber: 3,
+    image: "img/ug.jpg",
+  },
+  // Live at the LC Pavilion
+  "Fake You Out": {
+    album: "Live At The LC Pavilion",
+    trackNumber: 1,
+    image: "img/lc.jpg",
+  },
+  Migraine: {
+    album: "Live At The LC Pavilion",
+    trackNumber: 2,
+    image: "img/lc.jpg",
+  },
+  Screen: {
+    album: "Live At The LC Pavilion",
+    trackNumber: 3,
+    image: "img/lc.jpg",
+  },
+  "House Of Gold": {
+    album: "Live At The LC Pavilion",
+    trackNumber: 4,
+    image: "img/lc.jpg",
+  },
+  Forest: {
+    album: "Live At The LC Pavilion",
+    trackNumber: 5,
+    image: "img/lc.jpg",
+  },
+  "The Pantaloon": {
+    album: "Live At The LC Pavilion",
+    trackNumber: 6,
+    image: "img/lc.jpg",
+  },
+  "Addict With A Pen": {
+    album: "Live At The LC Pavilion",
+    trackNumber: 7,
+    image: "img/lc.jpg",
+  },
+  "Kitchen Sink": {
+    album: "Live At The LC Pavilion",
+    trackNumber: 8,
+    image: "img/lc.jpg",
+  },
+  "Ode To Sleep": {
+    album: "Live At The LC Pavilion",
+    trackNumber: 9,
+    image: "img/lc.jpg",
+  },
+  "Semi Automatic": {
+    album: "Live At The LC Pavilion",
+    trackNumber: 10,
+    image: "img/lc.jpg",
+  },
+  "Holding On To You": {
+    album: "Live At The LC Pavilion",
+    trackNumber: 11,
+    image: "img/lc.jpg",
+  },
+  "Car Radio": {
+    album: "Live At The LC Pavilion",
+    trackNumber: 12,
+    image: "img/lc.jpg",
+  },
+  Trees: {
+    album: "Live At The LC Pavilion",
+    trackNumber: 13,
+    image: "img/lc.jpg",
+  },
+  // Spotify Sessions
+  Intro: {
+    album: "Spotify Sessions",
+    trackNumber: 1,
+    image: "img/spot.jpg",
+  },
+  "Ode To Sleep": {
+    album: "Spotify Sessions",
+    trackNumber: 2,
+    image: "img/spot.jpg",
+  },
+  Migraine: {
+    album: "Spotify Sessions",
+    trackNumber: 3,
+    image: "img/spot.jpg",
+  },
+  Screen: {
+    album: "Spotify Sessions",
+    trackNumber: 4,
+    image: "img/spot.jpg",
+  },
+  "Holding On To You": {
+    album: "Spotify Sessions",
+    trackNumber: 5,
+    image: "img/spot.jpg",
+  },
+  "Car Radio": {
+    album: "Spotify Sessions",
+    trackNumber: 6,
+    image: "img/spot.jpg",
+  },
+  "Guns For Hands": {
+    album: "Spotify Sessions",
+    trackNumber: 7,
+    image: "img/spot.jpg",
+  },
+  // MTV Unplugged
+  Intro: {
+    album: "MTV Unplugged",
+    trackNumber: 1,
+    image: "img/mtv.jpg",
+  },
+  "Stressed Out": {
+    album: "MTV Unplugged",
+    trackNumber: 2,
+    image: "img/mtv.jpg",
+  },
+  "Tear In My Heart": {
+    album: "MTV Unplugged",
+    trackNumber: 3,
+    image: "img/mtv.jpg",
+  },
+  "House Of Gold / Lane Boy": {
+    album: "MTV Unplugged",
+    trackNumber: 4,
+    image: "img/mtv.jpg",
+  },
+  "Shy Away": {
+    album: "MTV Unplugged",
+    trackNumber: 5,
+    image: "img/mtv.jpg",
+  },
+  "Ride / Nico And The Niners": {
+    album: "MTV Unplugged",
+    trackNumber: 6,
+    image: "img/mtv.jpg",
+  },
+  "Car Radio / Heathens": {
+    album: "MTV Unplugged",
+    trackNumber: 7,
+    image: "img/mtv.jpg",
+  },
+  // Scaled And Icy Livestream Version BUT ONLY THE BONUS SONGS
+  "Choker / Stressed Out / Migraine / Morph / Holding On To You": {
+    album: "Scaled and Icy (Livestream Version)",
+    trackNumber: 1,
+    image: "img/livestream.jpg",
+  },
+  "Mulberry Street": {
+    album: "Scaled and Icy (Livestream Version)",
+    trackNumber: 2,
+    image: "img/livestream.jpg",
+  },
+  "Lane Boy / Redecorate / Chlorine": {
+    album: "Scaled and Icy (Livestream Version)",
+    trackNumber: 3,
+    image: "img/livestream.jpg",
+  },
+  "Shy Away": {
+    album: "Scaled and Icy (Livestream Version)",
+    trackNumber: 4,
+    image: "img/livestream.jpg",
+  },
+  "The Outside": {
+    album: "Scaled and Icy (Livestream Version)",
+    trackNumber: 5,
+    image: "img/livestream.jpg",
+  },
+  "Heathens / Trees": {
+    album: "Scaled and Icy (Livestream Version)",
+    trackNumber: 6,
+    image: "img/livestream.jpg",
+  },
+  "Jumpsuit / Heavydirtysoul": {
+    album: "Scaled and Icy (Livestream Version)",
+    trackNumber: 7,
+    image: "img/livestream.jpg",
+  },
+  "Saturday / Level Of Concern / Ride / Car Radio": {
+    album: "Scaled and Icy (Livestream Version)",
+    trackNumber: 8,
+    image: "img/livestream.jpg",
+  },
+  "Never Take It": {
+    album: "Scaled and Icy (Livestream Version)",
+    trackNumber: 9,
+    image: "img/livestream.jpg",
+  },
+  "Level Of Concern": {
+    album: "Scaled and Icy (Livestream Version)",
+    trackNumber: 10,
+    image: "img/livestream.jpg",
+  },
+  // Location Sessions
+  "Chlorine (Mexico City)": {
+    album: "Location Sessions",
+    trackNumber: 1,
+    image: "img/sesh.jpg"
+  },
+  "Cut My Lip (Brooklyn)": {
+    album: "Location Sessions",
+    trackNumber: 2,
+    image: "img/sesh.jpg"
+  },
+  "The Hype (Berlin)": {
+    album: "Location Sessions",
+    trackNumber: 3,
+    image: "img/sesh.jpg"
+  },
+  "Level Of Concern (Live From Outside)": {
+    album: "Location Sessions",
+    trackNumber: 4,
+    image: "img/sesh.jpg"
+  },
+
 };
