@@ -804,46 +804,6 @@ var metadata = {
     trackNumber: 13,
     image: "img/lc.jpg",
   },
-  "Intro (Spotify Sessions)": {
-    album: "Spotify Sessions",
-    trackNumber: 1,
-    image: "img/spot.jpg",
-  },
-  "Ode To Sleep (Spotify Sessions)": {
-    album: "Spotify Sessions",
-    trackNumber: 2,
-    image: "img/spot.jpg",
-  },
-  "Migraine (Spotify Sessions)": {
-    album: "Spotify Sessions",
-    trackNumber: 3,
-    image: "img/spot.jpg",
-  },
-  "Screen (Spotify Sessions)": {
-    album: "Spotify Sessions",
-    trackNumber: 4,
-    image: "img/spot.jpg",
-  },
-  "Holding On To You (Spotify Sessions)": {
-    album: "Spotify Sessions",
-    trackNumber: 5,
-    image: "img/spot.jpg",
-  },
-  "Car Radio (Spotify Sessions)": {
-    album: "Spotify Sessions",
-    trackNumber: 6,
-    image: "img/spot.jpg",
-  },
-  "Guns For Hands (Spotify Sessions)": {
-    album: "Spotify Sessions",
-    trackNumber: 7,
-    image: "img/spot.jpg",
-  },
-  "Intro (MTV Unplugged)": {
-    album: "MTV Unplugged",
-    trackNumber: 1,
-    image: "img/mtv.jpg",
-  },
   "Stressed Out (MTV Unplugged)": {
     album: "MTV Unplugged",
     trackNumber: 2,
@@ -917,11 +877,6 @@ var metadata = {
   "Never Take It (Livestream)": {
     album: "Scaled and Icy (Livestream Version)",
     trackNumber: 9,
-    image: "img/livestream.jpg",
-  },
-  "Level Of Concern (Livestream)": {
-    album: "Scaled and Icy (Livestream Version)",
-    trackNumber: 10,
     image: "img/livestream.jpg",
   },
   "Chlorine (Mexico City)": {
